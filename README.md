@@ -2,6 +2,10 @@
 
 고정 높이 테이블 viewport에서 대량 row를 다룰 때, `useMemo` 최적화와 가상 스크롤링의 차이를 비교하는 포트폴리오용 데모입니다.
 
+## 실행화면
+<img width="1759" height="846" alt="스크린샷 2026-05-11 20 48 04" src="https://github.com/user-attachments/assets/81c696ac-705f-480e-9586-e220b4cbe501" />
+
+
 ## 데모 구성
 
 - `Plain`: 일반 Ant Design Table 렌더링
